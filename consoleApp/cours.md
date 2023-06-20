@@ -1,10 +1,10 @@
 # Design Pattern C# :
 
-## création projet .NET console
+## Création projet .NET console
 
 dotnet new console -o consoleApp
 
-## lancer l'application consoleApp
+## Lancer l'application consoleApp
 
 dotnet run 
 
@@ -26,7 +26,7 @@ Singleton <-> Angular one instance
 -la structure standard (abstraite)
 -exemple de code 
 
-## cas concret d'etudes pour ce cours 
+## Cas concret d'etudes pour ce cours 
 
 Nous allons prendre en exemple le cas d'une societe qui vend des vehicules en ligne
 
