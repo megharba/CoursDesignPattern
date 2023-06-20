@@ -43,3 +43,9 @@ Nous allons prendre en exemple le cas d'une societe qui vend des vehicules en li
  - exemple :  Catalogue -- une instance qui va implémenté une instance de Fabrique vehicule (Famille d'objet) -1-> FabriqueVehicule <- (scooter,..)
 
  ![Alt-text](image2.png)
+
+ ### Le pattern Builder :
+
+ -Il permet de construire des objets complexes étape par étape, en séparant la construction/implémentation de l'objet final de sa représentation.
+
+ ![Alt-text](image3.png)
