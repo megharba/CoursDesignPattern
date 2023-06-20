@@ -1,0 +1,15 @@
+C:\cours_AL_BEN\AbstractFactoryApp\bin\Debug\net7.0\AbstractFactoryApp.exe
+C:\cours_AL_BEN\AbstractFactoryApp\bin\Debug\net7.0\AbstractFactoryApp.deps.json
+C:\cours_AL_BEN\AbstractFactoryApp\bin\Debug\net7.0\AbstractFactoryApp.runtimeconfig.json
+C:\cours_AL_BEN\AbstractFactoryApp\bin\Debug\net7.0\AbstractFactoryApp.dll
+C:\cours_AL_BEN\AbstractFactoryApp\bin\Debug\net7.0\AbstractFactoryApp.pdb
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.csproj.AssemblyReference.cache
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.AssemblyInfoInputs.cache
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.AssemblyInfo.cs
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.csproj.CoreCompileInputs.cache
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.dll
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\refint\AbstractFactoryApp.dll
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.pdb
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\AbstractFactoryApp.genruntimeconfig.cache
+C:\cours_AL_BEN\AbstractFactoryApp\obj\Debug\net7.0\ref\AbstractFactoryApp.dll
