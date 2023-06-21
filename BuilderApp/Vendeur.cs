@@ -1,17 +1,20 @@
-class Vendeur{
-    private ConstructeurLiasseVehicule constructeurLiasseVehicule;
+using System;
 
-    public void setConstructeurLiasseVehicule(ConstructeurLiasseVehicule clv) {
-        ConstructeurLiasseVehicule = clv;
-    }
+public class Vendeur
+{
+  protected ConstructeurLiasseVehicule constructeur;
 
-    public Vehicule getcar() {
-        return ConstructeurLiasseVehicule.getVehicule();
-    }
+  public Vendeur(ConstructeurLiasseVehicule constructeur)
+  {
+    this.constructeur = constructeur;
+  }
 
-    public void constructCar() {
-        ConstructeurLiasseVehicule.ConstruitBondeCommande();
-        ConstructeurLiasseVehicule.ConstruitDemmandeImmatriculation();
-        
-    }
+  public Liasse construit(string nomClient)
+  {
+    constructeur.construitBonDeCommande(nomClient);
+    constructeur.construitDemandeImmatriculation
+      (nomClient);
+    Liasse liasse = constructeur.resultat();
+    return liasse;
+  }
 }

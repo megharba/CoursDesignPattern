@@ -1,0 +1,15 @@
+C:\cours_AL_BEN\FactoryApp\bin\Debug\net7.0\FactoryApp.exe
+C:\cours_AL_BEN\FactoryApp\bin\Debug\net7.0\FactoryApp.deps.json
+C:\cours_AL_BEN\FactoryApp\bin\Debug\net7.0\FactoryApp.runtimeconfig.json
+C:\cours_AL_BEN\FactoryApp\bin\Debug\net7.0\FactoryApp.dll
+C:\cours_AL_BEN\FactoryApp\bin\Debug\net7.0\FactoryApp.pdb
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.csproj.AssemblyReference.cache
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.AssemblyInfoInputs.cache
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.AssemblyInfo.cs
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.csproj.CoreCompileInputs.cache
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.dll
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\refint\FactoryApp.dll
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.pdb
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\FactoryApp.genruntimeconfig.cache
+C:\cours_AL_BEN\FactoryApp\obj\Debug\net7.0\ref\FactoryApp.dll

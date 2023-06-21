@@ -1,18 +1,17 @@
-abstract class ConstructeurLiasseVehicule {
-    protected Vehicule Vehicule;
+using System;
 
-    public Vehicule getVehicule() {
-        return vehicule;
-    }
+public abstract class ConstructeurLiasseVehicule
+{
+  protected Liasse liasse;
 
-    public void createNewVehiculeProduct() {
-        vehicule = new Vehicule();
-    }
+  public abstract void construitBonDeCommande(string
+    nomClient);
 
-    public abstract void ConstruitBondeCommande ;
-    public abstract void ConstruitDemmandeImmatriculation ;
+  public abstract void construitDemandeImmatriculation
+    (string nomDemandeur);
 
-    }
-
-   
-  
+  public Liasse resultat()
+  {
+    return liasse;
+  }
+}
