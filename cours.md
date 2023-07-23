@@ -119,8 +119,27 @@ domaine utiliser
 
 TODO => ajouter la definition 
 
+### le pattern de Chain Of responsability
+Le pattern de la chaîne de responsabilité permet à plusieurs objets d'avoir la possibilité de traiter une demande. Chaque objet de la chaîne a une référence vers l'objet suivant, formant ainsi une structure en chaîne.
+
 ![Alt-text](image11.png)
 
 ![Alt-text](image12.png)
 
 ![Alt-text](image13.png)
+
+Ce pattern est utilise lorsque:
+une chaine d'objets gere une requete selon un ordre defini de facon dynamique
+
+Ce mecanisme doit etre transparent vis-a-vis des clients de la chaine d'objets.
+
+### le pattern Command
+
+
+### le pattern Iterator
+
+Le pattern Iterator encapsule une requête en tant qu'objet, permettant de paramétrer les opérations et de les exécuter ultérieurement. Il sépare l'émetteur de la commande du récepteur, offrant une flexibilité et une extensibilité accrues dans la gestion des actions.
+
+![Alt-text](image14.png)
+
+![Alt-text](image15.png)
