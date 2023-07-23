@@ -1,0 +1,15 @@
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.csproj.AssemblyReference.cache
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.AssemblyInfoInputs.cache
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.AssemblyInfo.cs
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.csproj.CoreCompileInputs.cache
+C:\cours_AL_BEN\DailyTaskApp\bin\Debug\net7.0\DailyTaskApp.exe
+C:\cours_AL_BEN\DailyTaskApp\bin\Debug\net7.0\DailyTaskApp.deps.json
+C:\cours_AL_BEN\DailyTaskApp\bin\Debug\net7.0\DailyTaskApp.runtimeconfig.json
+C:\cours_AL_BEN\DailyTaskApp\bin\Debug\net7.0\DailyTaskApp.dll
+C:\cours_AL_BEN\DailyTaskApp\bin\Debug\net7.0\DailyTaskApp.pdb
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.dll
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\refint\DailyTaskApp.dll
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.pdb
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\DailyTaskApp.genruntimeconfig.cache
+C:\cours_AL_BEN\DailyTaskApp\obj\Debug\net7.0\ref\DailyTaskApp.dll
